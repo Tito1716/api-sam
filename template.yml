@@ -10,7 +10,7 @@ Resources:
   MyCustomEventBus:
     Type: AWS::Events::EventBus
     Properties:
-      Name: pse-prueba
+      Name: pse-prueba-v1
 
 
 ##########################################################################
